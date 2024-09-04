@@ -1,0 +1,1 @@
+“This program helps you keep track of your water intake, supplements, and various gym goals. It also incorporates different types of stretches to ensure a well-rounded approach to your fitness routine. Stay on top of your progress and achieve your goals with a balanced plan that covers all the essentials.”
